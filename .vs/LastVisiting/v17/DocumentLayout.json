@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\11a\\mert laquica\\prilojeniq s grafichen interfeis\\LastVisiting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADBBF68-1809-46F9-B625-E1C9E77D296E}|LastVisiting\\LastVisiting.csproj|c:\\users\\user\\documents\\11a\\mert laquica\\prilojeniq s grafichen interfeis\\lastvisiting\\lastvisiting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ADBBF68-1809-46F9-B625-E1C9E77D296E}|LastVisiting\\LastVisiting.csproj|solutionrelative:lastvisiting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADBBF68-1809-46F9-B625-E1C9E77D296E}|LastVisiting\\LastVisiting.csproj|c:\\users\\user\\documents\\11a\\mert laquica\\prilojeniq s grafichen interfeis\\lastvisiting\\lastvisiting\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ADBBF68-1809-46F9-B625-E1C9E77D296E}|LastVisiting\\LastVisiting.csproj|solutionrelative:lastvisiting\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADBBF68-1809-46F9-B625-E1C9E77D296E}|LastVisiting\\LastVisiting.csproj|c:\\users\\user\\documents\\11a\\mert laquica\\prilojeniq s grafichen interfeis\\lastvisiting\\lastvisiting\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4ADBBF68-1809-46F9-B625-E1C9E77D296E}|LastVisiting\\LastVisiting.csproj|solutionrelative:lastvisiting\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADBBF68-1809-46F9-B625-E1C9E77D296E}|LastVisiting\\LastVisiting.csproj|c:\\users\\user\\documents\\11a\\mert laquica\\prilojeniq s grafichen interfeis\\lastvisiting\\lastvisiting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ADBBF68-1809-46F9-B625-E1C9E77D296E}|LastVisiting\\LastVisiting.csproj|solutionrelative:lastvisiting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADBBF68-1809-46F9-B625-E1C9E77D296E}|LastVisiting\\LastVisiting.csproj|c:\\users\\user\\documents\\11a\\mert laquica\\prilojeniq s grafichen interfeis\\lastvisiting\\lastvisiting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ADBBF68-1809-46F9-B625-E1C9E77D296E}|LastVisiting\\LastVisiting.csproj|solutionrelative:lastvisiting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\11a\\mert laquica\\prilojeniq s grafichen interfeis\\LastVisiting\\LastVisiting\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "LastVisiting\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\User\\Documents\\11a\\mert laquica\\prilojeniq s grafichen interfeis\\LastVisiting\\LastVisiting\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "LastVisiting\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-19T06:39:52.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\11a\\mert laquica\\prilojeniq s grafichen interfeis\\LastVisiting\\LastVisiting\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LastVisiting\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\11a\\mert laquica\\prilojeniq s grafichen interfeis\\LastVisiting\\LastVisiting\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LastVisiting\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T06:38:26.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\11a\\mert laquica\\prilojeniq s grafichen interfeis\\LastVisiting\\LastVisiting\\Program.cs",
+              "RelativeDocumentMoniker": "LastVisiting\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\11a\\mert laquica\\prilojeniq s grafichen interfeis\\LastVisiting\\LastVisiting\\Program.cs",
+              "RelativeToolTip": "LastVisiting\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:30:45.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\11a\\mert laquica\\prilojeniq s grafichen interfeis\\LastVisiting\\LastVisiting\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LastVisiting\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\11a\\mert laquica\\prilojeniq s grafichen interfeis\\LastVisiting\\LastVisiting\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LastVisiting\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T06:30:27.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\11a\\mert laquica\\prilojeniq s grafichen interfeis\\LastVisiting\\LastVisiting\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LastVisiting\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\11a\\mert laquica\\prilojeniq s grafichen interfeis\\LastVisiting\\LastVisiting\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LastVisiting\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:30:09.514Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
